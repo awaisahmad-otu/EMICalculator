@@ -9,5 +9,4 @@
     <string name="term_hint">Enter term (years)</string>
     <string name="calculate_btn">Calculate Payments</string>
     <string name="payment_string">Your Monthly Payment Is:</string>
-    <string name="payment_value">$</string>
 </resources>
